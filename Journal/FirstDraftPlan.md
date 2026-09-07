@@ -1,4 +1,4 @@
-# Planning keyboard, time taken: approx 40 minutes (or 2/3 hours)
+# Planning keyboard, approx 40 minutes (or 2/3 hours), 06-09-2026
 
 This is the initial sketch for my keyboard, along with a photo I used for reference/inspiration.
 I created this with the idea in mind that this wasn't final, so I didn't put too much detail.
