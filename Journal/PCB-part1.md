@@ -1,4 +1,4 @@
-# First part of creating PCB, approx 2 hours
+# First part of creating PCB, approx 2 hours, 06-09-2026
 This first photo shows the first switch and diode connection I made:
  \
 <img width="960" height="504" alt="Screenshot 2026-09-06 161545" src="https://github.com/user-attachments/assets/855fe7e1-6176-41ec-9c79-40035d8b3594" />
