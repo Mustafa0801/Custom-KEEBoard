@@ -1,6 +1,6 @@
 # Custom-KEEBoard
 
-I created a normal and basic keyboard for this project. It does not have any extra parts like LEDs (though I did try to add those initially).
+I created a normal and basic keyboard for this project. It does not have any extra parts like LEDs (though I did try to add those initially).  
   \
 This project was my first experience with hardware like PCBs, microcontrollers, how to wire things together and stuff like that.
 I've always been more interested in the software side of things however making a keyboard, albeit with a LOT of help, was still really fun.
