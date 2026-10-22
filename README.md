@@ -14,6 +14,6 @@ But in the end I'm quite happy with what I was able to achieve, even though it w
 
 Onshape link: https://cad.onshape.com/documents/56a54eae4c7e48d4d39df1fe/w/475236177727db4b95dad126/e/0423ad5d7fe3e147c588a434?renderMode=0&uiState=6ad9e8142c3bd1b7814e2415
   \
-Aand heres the BOM: 
+Aand heres the BOM:
   \
 <img width="344" height="348" alt="image" src="https://github.com/user-attachments/assets/f0d505ca-48ef-42b5-82e0-9be6aed1f39e" />
