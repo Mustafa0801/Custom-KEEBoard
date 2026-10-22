@@ -8,3 +8,11 @@ It showed me how complex things really are that allow us to do the simple tasks 
   \
 The main issues I faced in this project was how overwhelming things felt at times, using new software and reading paragraphs of things which make no sense to you at all.
 But in the end I'm quite happy with what I was able to achieve, even though it was a simple keyboard for my first adventure into this field.
+
+<img width="539" height="217" alt="final pcb" src="https://github.com/user-attachments/assets/d38db1f5-cee1-4e8a-8d78-f4aab7529a69" />
+<img width="624" height="284" alt="final case design" src="https://github.com/user-attachments/assets/d6a1a37f-5e4f-4bb8-8d63-e4888f6ab989" /> 
+
+  
+Aand heres the BOM: 
+  \
+<img width="344" height="348" alt="image" src="https://github.com/user-attachments/assets/f0d505ca-48ef-42b5-82e0-9be6aed1f39e" />
