@@ -11,8 +11,8 @@ But in the end I'm quite happy with what I was able to achieve, even though it w
 
 <img width="539" height="217" alt="final pcb" src="https://github.com/user-attachments/assets/d38db1f5-cee1-4e8a-8d78-f4aab7529a69" />
 <img width="624" height="284" alt="final case design" src="https://github.com/user-attachments/assets/d6a1a37f-5e4f-4bb8-8d63-e4888f6ab989" /> 
+<img width="537" height="365" alt="schematic final" src="https://github.com/user-attachments/assets/a6cfd83c-d81d-420c-a58f-2ed808cf2147" />
 
-Onshape link: https://cad.onshape.com/documents/d72b704b938a20b48e6cecdf/w/9070e617aa863dd7421867cc/e/3248febed474dbc10f839157?renderMode=0&uiState=6ad9f0e9fea4dfe2b38bedf9 
   \
 Aand heres the BOM:
   \
