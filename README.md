@@ -10,8 +10,13 @@ The main issues I faced in this project was how overwhelming things felt at time
 But in the end I'm quite happy with what I was able to achieve, even though it was a simple keyboard for my first adventure into this field.
 
 <img width="539" height="217" alt="final pcb" src="https://github.com/user-attachments/assets/d38db1f5-cee1-4e8a-8d78-f4aab7529a69" />
-<img width="624" height="284" alt="final case design" src="https://github.com/user-attachments/assets/d6a1a37f-5e4f-4bb8-8d63-e4888f6ab989" /> 
 <img width="537" height="365" alt="schematic final" src="https://github.com/user-attachments/assets/a6cfd83c-d81d-420c-a58f-2ed808cf2147" />
+
+
+Onshape link: https://cad.onshape.com/documents/56a54eae4c7e48d4d39df1fe/w/475236177727db4b95dad126/e/836049768bea304fa6717bf7?renderMode=0&uiState=6ae73c4305ffe80012acf5dc  
+and the Case with one switch for reference, adding all switches was taking too much time
+
+<img width="698" height="323" alt="FIXED final case other angle" src="https://github.com/user-attachments/assets/42f50fca-f137-482c-9b1a-ee1716113f44" />
 
   \
 Aand heres the BOM:
