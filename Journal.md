@@ -173,9 +173,7 @@ The only issue I faced was with splitting the case and adding the tongue and gro
 
 made all the change that it was sent back for, the case was the only thing that took time since it had to be almost completely redone.
 I had misread the guide and made switch cutouts in the base instead of making a top plate, so I did that properly. The guide didnt mention cutouts for stabilizers but I attempted to do those too and I hope its correct. Also added one switch and keycap just too see if it fits properly, didnt add every switch cuz it would take too much time
-
-<img width="698" height="323" alt="FIXED final case other angle" src="https://github.com/user-attachments/assets/90d757b4-dc3f-4710-9eee-57afa208d811" />
-<img width="671" height="288" alt="FIXED final case" src="https://github.com/user-attachments/assets/af1c863e-70eb-486e-81d1-3074124a3248" />
-
+![](https://fabricate.hackclub-assets.com/3de659c0f2f7b8f5369ec0efb90776e52fe21b520f690d944fc3ece808b4f891/image-png/FIXED%20final%20case%20other%20angle.png)
+![](https://fabricate.hackclub-assets.com/c4196ee5b7bdf7b8becd802a21a3a8c99e41685a2daabbbb82989e33c868ea15/image-png/FIXED%20final%20case.png)
 
 **Total time spent: 2h**
