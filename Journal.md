@@ -3,7 +3,7 @@ title: "Custom-KEEBoard"
 github: "https://github.com/Mustafa0801/Custom-KEEBoard/tree/main"
 description: "Built a simple and basic keyboard as its my first project in this field. The layout is similar to a 60% layout but some of the sizes are slightly different."
 created_at: "2026-09-24"
-total_time: "15h"
+total_time: "15h 30m"
 ---
 
 # Journal of designing keyboard
@@ -177,3 +177,11 @@ I had misread the guide and made switch cutouts in the base instead of making a 
 ![](https://fabricate.hackclub-assets.com/c4196ee5b7bdf7b8becd802a21a3a8c99e41685a2daabbbb82989e33c868ea15/image-png/FIXED%20final%20case.png)
 
 **Total time spent: 2h**
+
+# November 4, 2026: updated and optimized bom
+<!-- fabricate:entry 2143 -->
+
+fixed the bom since i forgot to update 3d printing charges for the new case. I checked quite a few sources for pcb manafacturing but a lot of websites didnt seem reliable and I found other people on reddit also saying that jlc is generally the best, so I decided to stick with that. However when I made the cart this time, I got a bigger discount coupon for some reason so the price was less.
+![](https://fabricate.hackclub-assets.com/dbc073f86dec0f988120147e36dba86251b223cf1a750834442a9886130ff5ef/image-png/image.png)
+
+**Total time spent: 30m**
