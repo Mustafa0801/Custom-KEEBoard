@@ -21,4 +21,5 @@ and the Case with one switch for reference, adding all switches was taking too m
   \
 Aand heres the BOM:
   \
-<img width="344" height="348" alt="image" src="https://github.com/user-attachments/assets/f0d505ca-48ef-42b5-82e0-9be6aed1f39e" />
+<img width="343" height="344" alt="image" src="https://github.com/user-attachments/assets/ace686aa-9841-4fb1-8b85-95fb35206b20" />
+
