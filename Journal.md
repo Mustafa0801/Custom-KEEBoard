@@ -3,7 +3,7 @@ title: "Custom-KEEBoard"
 github: "https://github.com/Mustafa0801/Custom-KEEBoard/tree/main"
 description: "Built a simple and basic keyboard as its my first project in this field. The layout is similar to a 60% layout but some of the sizes are slightly different."
 created_at: "2026-09-24"
-total_time: "15h 30m"
+total_time: "15h 36m"
 ---
 
 # Journal of designing keyboard
@@ -135,18 +135,23 @@ Really hope this works!!!
 <!-- fabricate:entry 961 -->
 
 It saddens and disappoints me, but I decided to give up on adding LEDs and an OLED display.
+
 It simply felt like I was biting off more than I could chew, and I didn't want to create more problems for myself.
-I decided it would be smarter to make a simpler keyboard for my first project instead of doing too much while not understanding what I'm even doing.  
+I decided it would be smarter to make a simpler keyboard for my first project instead of doing too much while not understanding what I'm even doing.
+   \
+**CLARIFICATION:** This was my first electronics/hardware project and I had no prior knowledge whatsoever.
+Essentially what happened is that I had finished adding LED and OLED stuff to the schematic, and I wasn't even sure if I had done that correctly. Then I moved on to the PCB and realized there that this may be too confusing for me, because I had already struggled so much with the schematic and now I had no idea how I was supposed to place and wire the LED and OLED parts. Therefore I ended up not over complicating things for myself and sticking to a simple design.
+
   \
 This meant I could finally move onto finishing the PCB layout; it was quite easy but once again felt redundant connecting all the traces.  
-<img width="564" height="225" alt="Screenshot 2026-09-15 153924" src="https://fabricate.hackclub-assets.com/8218a94db7fd53a92aa52ad7c42fa4bb19936acf00c8bc9bdc89349b32cbf648/image-png/da241c4a-e27c-479f-935a-cf98f2854123.png" />
-<img width="539" height="217" alt="Screenshot 2026-09-15 155813" src="https://fabricate.hackclub-assets.com/68b6759984406a418e12b095abde062ce68d15885cb921023cf14f75d26815e4/image-png/c9e51a36-7942-4778-9c8f-21e04a6973d8.png" />
+![Screenshot 2026-09-15 153924](https://fabricate.hackclub-assets.com/8218a94db7fd53a92aa52ad7c42fa4bb19936acf00c8bc9bdc89349b32cbf648/image-png/da241c4a-e27c-479f-935a-cf98f2854123.png)
+![Screenshot 2026-09-15 155813](https://fabricate.hackclub-assets.com/68b6759984406a418e12b095abde062ce68d15885cb921023cf14f75d26815e4/image-png/c9e51a36-7942-4778-9c8f-21e04a6973d8.png)
   \
   \
 I did face some errors when doing the check, involving the stabilizers being too close to any other stabilizers below or above, which was a simple quick fix.  
 Here is the model of the board, not sure why the keycaps werent showing by default but I ignored it since I didn't want to manually add the 3D model to each switch.  
   \
-<img width="770" height="302" alt="Screenshot 2026-09-15 161716" src="https://fabricate.hackclub-assets.com/5810ada97a2af3bf3098c6ebff836da9ea58268752504eabff3ab406ab6e3c8d/image-png/7f0af40c-6584-4c61-b7cc-9e4ce762cfe3.png" />
+![Screenshot 2026-09-15 161716](https://fabricate.hackclub-assets.com/5810ada97a2af3bf3098c6ebff836da9ea58268752504eabff3ab406ab6e3c8d/image-png/7f0af40c-6584-4c61-b7cc-9e4ce762cfe3.png)
 
 **Total time spent: 3h 30m**
 
@@ -185,3 +190,12 @@ fixed the bom since i forgot to update 3d printing charges for the new case. I c
 ![](https://fabricate.hackclub-assets.com/dbc073f86dec0f988120147e36dba86251b223cf1a750834442a9886130ff5ef/image-png/image.png)
 
 **Total time spent: 30m**
+
+# November 7, 2026: Adding clarification
+<!-- fabricate:entry 2338 -->
+
+updated journal entry "Final part of making PCB" with clarification on why I gave up on adding LEDs and OLED screen. Added further details about the exact reasons for this, since I originally had just stated that I wasn't doing it and had just given a brief explanation.
+ 
+![](https://fabricate.hackclub-assets.com/8d45879f92775021b985fdd7dff470e0d18c16963150e52374b2386685416a3f/image-png/Screenshot%202026-11-07%20153953.png)
+
+**Total time spent: 6m**
